@@ -1,1 +1,2 @@
-# code-Application-Of-Regression-Techniques-To-Predict-A-Country's-Happiness-Index
+This practice problem is from World Happiness Report from Kaggle.
+The programming language is Python.
